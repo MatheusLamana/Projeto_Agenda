@@ -1,6 +1,6 @@
 require('dotenv').config();
 
-const express = require('express');  //como ele ja esta dentro da pasata node a gente nao precisa de caminho para importar
+const express = require('express');  //como ele ja esta dentro da pasta node nao precisamos de um caminho para importar
 const app = express();
 const mongoose = require('mongoose');
 
