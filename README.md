@@ -6,5 +6,5 @@ npm init -y Esse comando vai iniciar o projeto ja baixando todos os arquivos
 
 # Modificações
 Alterando o contato onde se registrava e fazendo o redirecionado para a pagina inicial com o retorno de mensagem "Cliente adicionado com sucesso"
-Adicionando campo fixos na table
+Adicionando campo fixos na tabela e 
 Alterando nome de Cadastrar contato para Registrar
